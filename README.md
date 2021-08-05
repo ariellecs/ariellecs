@@ -1,5 +1,5 @@
 ### Hey! Você achou o GitHub da Arielle! 😊
-<img align="right" alt="Ari-gif" height="130" width="130" src="https://media.discordapp.net/attachments/787457062682099722/872916205760028743/5ip7hf.gif?width=441&height=441">
+<img align="right" alt="Ari-gif" height="120" width="120" src="https://media.discordapp.net/attachments/787457062682099722/872916205760028743/5ip7hf.gif?width=441&height=441">
 <p>Um pouquinho de mim:</p>
  - Apelidos: Ari / Lyth</br>
  - Doces favoritos: Chocolate 🍫 e qualquer um com morango 🍓</br>
@@ -17,18 +17,16 @@
 
 <div>
   <a href="https://github.com/arielyth">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielyth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielyth&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arielyth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielyth&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
-
-##
-  
+ 
+ ## 
+ 
 <div>
   <a href="https://instagram.com/arielle.lyth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arielle95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arielle-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
- 
- ##
  
 ![Snake animation](https://github.com/arielyth/arielyth/blob/output/github-contribution-grid-snake.svg)
