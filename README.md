@@ -17,7 +17,7 @@
 
 <div>
   <a href="https://github.com/ariellecs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arielyth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ariellecs&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellecs&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
  
