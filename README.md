@@ -16,17 +16,17 @@
 ##
 
 <div>
-  <a href="https://github.com/arielyth">
+  <a href="https://github.com/ariellecs">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=arielyth&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arielyth&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariellecs&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
  
  ## 
  
 <div>
-  <a href="https://instagram.com/arielle.lyth" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ariellecs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:arielle95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/arielle-cardoso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-![Snake animation](https://github.com/arielyth/arielyth/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ariellecs/ariellecs/blob/output/github-contribution-grid-snake.svg)
