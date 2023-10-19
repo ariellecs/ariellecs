@@ -1,9 +1,8 @@
 ### Hey! Você achou o GitHub da Arielle! 😊
 <img align="right" alt="Ari-gif" height="120" width="120" src="https://media.discordapp.net/attachments/787457062682099722/872916205760028743/5ip7hf.gif?width=441&height=441">
 <p>Um pouquinho de mim:</p>
- - Apelidos: Ari / Lyth</br>
- - Doces favoritos: Chocolate 🍫 e qualquer um com morango 🍓</br>
- - Comida favorita: Batata frita 🍟</br>
+ - Apelidos: Ari ou Elle </br>
+ - Entusiasta, destemida e que não recusa uma batata frita! Como qualquer pessoa, gosto da cultura pop e jogos em geral, mas sem treta Marvel x DC por favor, enquanto tiver conteúdo estamos no paraíso amigos, não briguem por esse tipo de coisa. Se eu não fosse desenvolvedora, provavelmente seria ilustradora ou maquiadora, a vida é uma surpresa constante, então quem sabe um dia? Valeu por ter dado uma passadinha! </br>
 
   <div style="display: inline_block">
   - Estudando: <img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
